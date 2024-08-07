@@ -1,0 +1,99 @@
+ 
+****************************************
+Report : timing
+        -path full
+        -delay min
+        -max_paths 1
+Design : clag4bits
+Version: Q-2019.12
+Date   : Wed Aug  7 15:00:28 2024
+****************************************
+
+Operating Conditions: nom_pvt   Library: gtech
+Wire Load Model Mode: top
+
+  Startpoint: G[3] (input port)
+  Endpoint: Cout[3] (output port)
+  Path Group: (none)
+  Path Type: min
+
+  Point                                    Incr       Path
+  -----------------------------------------------------------
+  input external delay                     0.00       0.00 r
+  G[3] (in)                                0.00       0.00 r
+  C33/Z (GTECH_OR2)                        0.00       0.00 r
+  C32/Z (GTECH_OR2)                        0.00       0.00 r
+  C31/Z (GTECH_OR2)                        0.00       0.00 r
+  C30/Z (GTECH_OR2)                        0.00       0.00 r
+  Cout[3] (out)                            0.00       0.00 r
+  data arrival time                                   0.00
+  -----------------------------------------------------------
+  (Path is unconstrained)
+
+
+1
+ 
+****************************************
+Report : timing
+        -path full
+        -delay min
+        -max_paths 1
+Design : clag4bits
+Version: Q-2019.12
+Date   : Wed Aug  7 15:02:25 2024
+****************************************
+
+Operating Conditions: nom_pvt   Library: gtech
+Wire Load Model Mode: top
+
+  Startpoint: G[3] (input port)
+  Endpoint: Cout[3] (output port)
+  Path Group: (none)
+  Path Type: min
+
+  Point                                    Incr       Path
+  -----------------------------------------------------------
+  input external delay                     0.00       0.00 r
+  G[3] (in)                                0.00       0.00 r
+  C33/Z (GTECH_OR2)                        0.00       0.00 r
+  C32/Z (GTECH_OR2)                        0.00       0.00 r
+  C31/Z (GTECH_OR2)                        0.00       0.00 r
+  C30/Z (GTECH_OR2)                        0.00       0.00 r
+  Cout[3] (out)                            0.00       0.00 r
+  data arrival time                                   0.00
+  -----------------------------------------------------------
+  (Path is unconstrained)
+
+
+1
+ 
+****************************************
+Report : timing
+        -path full
+        -delay min
+        -max_paths 1
+Design : clag4bits
+Version: Q-2019.12
+Date   : Wed Aug  7 15:03:51 2024
+****************************************
+
+Operating Conditions: slow   Library: slow
+Wire Load Model Mode: top
+
+  Startpoint: G[0] (input port)
+  Endpoint: Cout[0] (output port)
+  Path Group: (none)
+  Path Type: min
+
+  Point                                    Incr       Path
+  -----------------------------------------------------------
+  input external delay                     0.00       0.00 r
+  G[0] (in)                                0.00       0.00 r
+  C13/Y (OR2X8)                            0.06       0.06 r
+  Cout[0] (out)                            0.00       0.06 r
+  data arrival time                                   0.06
+  -----------------------------------------------------------
+  (Path is unconstrained)
+
+
+1

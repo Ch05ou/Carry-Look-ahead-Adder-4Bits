@@ -1,0 +1,94 @@
+ 
+****************************************
+Report : area
+Design : clag4bits
+Version: Q-2019.12
+Date   : Wed Aug  7 15:00:28 2024
+****************************************
+
+Library(s) Used:
+
+    gtech (File: /usr/cad/synopsys/synthesis/cur/libraries/syn/gtech.db)
+
+Number of ports:                           13
+Number of nets:                            35
+Number of cells:                           26
+Number of combinational cells:             26
+Number of sequential cells:                 0
+Number of macros/black boxes:               0
+Number of buf/inv:                          0
+Number of references:                       2
+
+Combinational area:                  0.000000
+Buf/Inv area:                        0.000000
+Noncombinational area:               0.000000
+Macro/Black Box area:                0.000000
+Net Interconnect area:      undefined  (No wire load specified)
+
+Total cell area:                     0.000000
+Total area:                 undefined
+
+Information: This design contains unmapped logic. (RPT-7)
+1
+ 
+****************************************
+Report : area
+Design : clag4bits
+Version: Q-2019.12
+Date   : Wed Aug  7 15:02:25 2024
+****************************************
+
+Library(s) Used:
+
+    gtech (File: /usr/cad/synopsys/synthesis/cur/libraries/syn/gtech.db)
+
+Number of ports:                           13
+Number of nets:                            35
+Number of cells:                           26
+Number of combinational cells:             26
+Number of sequential cells:                 0
+Number of macros/black boxes:               0
+Number of buf/inv:                          0
+Number of references:                       2
+
+Combinational area:                  0.000000
+Buf/Inv area:                        0.000000
+Noncombinational area:               0.000000
+Macro/Black Box area:                0.000000
+Net Interconnect area:      undefined  (No wire load specified)
+
+Total cell area:                     0.000000
+Total area:                 undefined
+
+Information: This design contains unmapped logic. (RPT-7)
+1
+ 
+****************************************
+Report : area
+Design : clag4bits
+Version: Q-2019.12
+Date   : Wed Aug  7 15:03:51 2024
+****************************************
+
+Library(s) Used:
+
+    slow (File: /usr/cad/designkit/CBDK_IC_Contest_v2.1/SynopsysDC/db/slow.db)
+
+Number of ports:                           13
+Number of nets:                            35
+Number of cells:                           26
+Number of combinational cells:             26
+Number of sequential cells:                 0
+Number of macros/black boxes:               0
+Number of buf/inv:                          0
+Number of references:                       2
+
+Combinational area:                441.324024
+Buf/Inv area:                        0.000000
+Noncombinational area:               0.000000
+Macro/Black Box area:                0.000000
+Net Interconnect area:      undefined  (No wire load specified)
+
+Total cell area:                   441.324024
+Total area:                 undefined
+1

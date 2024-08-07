@@ -1,0 +1,106 @@
+Information: Updating design information... (UID-85)
+ 
+****************************************
+Report : timing
+        -path full
+        -delay max
+        -max_paths 1
+Design : clag4bits
+Version: Q-2019.12
+Date   : Wed Aug  7 15:00:28 2024
+****************************************
+
+Operating Conditions: nom_pvt   Library: gtech
+Wire Load Model Mode: top
+
+  Startpoint: G[3] (input port)
+  Endpoint: Cout[3] (output port)
+  Path Group: (none)
+  Path Type: max
+
+  Point                                    Incr       Path
+  -----------------------------------------------------------
+  input external delay                     0.00       0.00 r
+  G[3] (in)                                0.00       0.00 r
+  C33/Z (GTECH_OR2)                        0.00       0.00 r
+  C32/Z (GTECH_OR2)                        0.00       0.00 r
+  C31/Z (GTECH_OR2)                        0.00       0.00 r
+  C30/Z (GTECH_OR2)                        0.00       0.00 r
+  Cout[3] (out)                            0.00       0.00 r
+  data arrival time                                   0.00
+  -----------------------------------------------------------
+  (Path is unconstrained)
+
+
+1
+Information: Updating design information... (UID-85)
+ 
+****************************************
+Report : timing
+        -path full
+        -delay max
+        -max_paths 1
+Design : clag4bits
+Version: Q-2019.12
+Date   : Wed Aug  7 15:02:25 2024
+****************************************
+
+Operating Conditions: nom_pvt   Library: gtech
+Wire Load Model Mode: top
+
+  Startpoint: G[3] (input port)
+  Endpoint: Cout[3] (output port)
+  Path Group: (none)
+  Path Type: max
+
+  Point                                    Incr       Path
+  -----------------------------------------------------------
+  input external delay                     0.00       0.00 r
+  G[3] (in)                                0.00       0.00 r
+  C33/Z (GTECH_OR2)                        0.00       0.00 r
+  C32/Z (GTECH_OR2)                        0.00       0.00 r
+  C31/Z (GTECH_OR2)                        0.00       0.00 r
+  C30/Z (GTECH_OR2)                        0.00       0.00 r
+  Cout[3] (out)                            0.00       0.00 r
+  data arrival time                                   0.00
+  -----------------------------------------------------------
+  (Path is unconstrained)
+
+
+1
+Information: Updating design information... (UID-85)
+ 
+****************************************
+Report : timing
+        -path full
+        -delay max
+        -max_paths 1
+Design : clag4bits
+Version: Q-2019.12
+Date   : Wed Aug  7 15:03:51 2024
+****************************************
+
+Operating Conditions: slow   Library: slow
+Wire Load Model Mode: top
+
+  Startpoint: G[2] (input port)
+  Endpoint: Cout[3] (output port)
+  Path Group: (none)
+  Path Type: max
+
+  Point                                    Incr       Path
+  -----------------------------------------------------------
+  input external delay                     0.00       0.00 f
+  G[2] (in)                                0.00       0.00 f
+  C34/Y (AND2X8)                           0.11       0.11 f
+  C33/Y (OR2X8)                            0.14       0.25 f
+  C32/Y (OR2X8)                            0.13       0.37 f
+  C31/Y (OR2X8)                            0.13       0.50 f
+  C30/Y (OR2X8)                            0.12       0.62 f
+  Cout[3] (out)                            0.00       0.62 f
+  data arrival time                                   0.62
+  -----------------------------------------------------------
+  (Path is unconstrained)
+
+
+1
